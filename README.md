@@ -523,7 +523,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🙏 Acknowledgments
 
--ChatGPT, Cursor, & our brains which was almost on the verge of burnout ;) 
+-ChatGPT, Cursor, & our brains which was almost on the verge of burnout ;)
 -Sneha Mam for approving the project.
 ---
 
